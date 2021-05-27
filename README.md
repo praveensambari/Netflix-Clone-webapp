@@ -1,6 +1,8 @@
 # Web-App
 https://netflix-app-9cbc7.web.app/
 
+<img src="./images/Netflix.PNG">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
