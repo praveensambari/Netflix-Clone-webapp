@@ -1,7 +1,9 @@
 # Web-App
 https://netflix-app-9cbc7.web.app/
 
-<img src="./images/Netflix.PNG">
+<img src="./images/Netflix.jpg">
+
+<img src="./images/Netflix_1.jpg">
 
 # Getting Started with Create React App
 
